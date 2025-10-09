@@ -8,7 +8,7 @@ I recently completed a **Deloitte Apprenticeship** in their USDC Core Business O
 Beyond that, I’m actively building projects like:  
 - 🎓 **Dreamers Agent** – an AI assistant helping immigrant and first-gen students find scholarships & resources.
 - ⚽ **Yamalverse** – a football analytics platform for Lamine Yamal, featuring interactive stats and cool filtering options.  
-- 🤖 **Brainrot Character Generator** – an AI-based meme/character generator with credit-based monetization .
+- 🤖 **Cherno CLI** – an CLI AI Coding Agent, making code generation and completion more efficient by reducing task-switch cost and improving context awareness.
 
 I’m constantly learning, experimenting, and pushing my skills further 🚀  
 
