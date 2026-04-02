@@ -1,5 +1,5 @@
 # 👋 About Me:
-My name is **Thierno Diallo**, and I’m a Computer Science student at **The City College of New York (CCNY)**, after graduating with honors from **BMCC**.  
+My name is **Thierno Diallo**, and I’m a Computer Science student at **The City College of New York (CCNY)**.  
 
 I’m passionate about **software engineering, AI integration, and data-driven applications**, with a strong drive to build technology that creates real-world impact.  
 
