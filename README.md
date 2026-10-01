@@ -1,19 +1,64 @@
 # 👋 About Me
 
-Hey, I'm **Thierno Diallo**, a Computer Science student at **The City College of New York (CCNY)**.
+Hey, I'm **Thierno Diallo**, a Computer Science student at **The City College of New York (CCNY)** and a software engineer interested in **backend engineering, applied AI, and building useful products**.
 
-I'm a software engineer interested in **backend engineering, AI, and building useful products**. My recent experience spans software engineering and financial technology, including work at **Clearwater Analytics, Brainstorm, and Deloitte**.
+I've worked across software engineering, fintech, consulting, and AI through experiences at **Shopify, Clearwater Analytics, Brainstorm, Deloitte, and Accenture**.
 
-I'm currently an **AI Studio Fellow at Accenture through Break Through Tech**, where I'm continuing to deepen my experience working on applied AI problems. I also completed **Machine Learning Foundations through Cornell Tech's Break Through Tech AI program**.
+I'm currently an **AI Studio Fellow at Accenture**, working on an applied AI project through Break Through Tech, and I'll be joining **Shopify as a Software Engineering Intern in Spring 2027**.
 
-Outside of work and school, I spend a lot of my time building and experimenting:
+I also completed **Machine Learning Foundations through Cornell Tech's Break Through Tech AI program**.
 
-- 🎓 **Rate My CUNY Professor** – A platform helping CUNY students make better course decisions, now used by **1,000+ students weekly**.
-- ⚽ **Yamalverse** – A football analytics platform centered around Lamine Yamal, with **7,000+ unique visitors since launch**.
-- 📈 **SEC Filings RAG** – A RAG system for searching and asking questions across SEC filings, built to explore retrieval and LLM-powered financial research.
-- 🤖 **DreamersAgent** – An AI-powered platform helping immigrant and first-generation students discover scholarships and resources.
+A lot of what I learn comes from building things and putting them in front of real users.
 
-I'm especially interested in **backend systems, applied AI, and developer tools**, and I'm always looking for something new to build or learn.
+---
+
+# 💼 Experience
+
+### 🛍️ Shopify
+**Incoming Software Engineering Intern**  
+*Winter 2027*
+
+Joining Shopify's engineering team for a four-month internship focused on building and shipping production software.
+
+### 💧 Clearwater Analytics
+**Technical Product Manager Intern**  
+*Summer 2026*
+
+Worked on internal engineering workflows and automation in a fintech environment, including Python-based report generation and scheduled data pipelines.
+
+### 🧠 Brainstorm
+**Software Engineering Intern**  
+*2026*
+
+Worked on software engineering projects spanning backend development and internal systems.
+
+### 🤖 Accenture
+**AI Studio Fellow**  
+*Fall 2026*
+
+Working on an applied AI project focused on using AI to improve contract review and analysis.
+
+### 🟢 Deloitte
+**Software Engineering Intern**  
+*2025*
+
+Built software for **Project Scoot**, a live MTA bus route application using Node.js, PostgreSQL, React, and Google Maps.
+
+---
+
+# 🚀 Projects
+
+### 🎓 Rate My CUNY Professor
+A platform helping CUNY students make better course decisions, now used by **1,000+ students weekly**.
+
+### ⚽ Yamalverse
+A football analytics platform centered around Lamine Yamal, with **7,000+ unique visitors since launch**.
+
+### 📈 SEC Filings RAG
+A retrieval-augmented generation system for searching, exploring, and asking questions across SEC filings.
+
+### 🤖 DreamersAgent
+An AI-powered platform helping immigrant and first-generation students discover scholarships, resources, and opportunities.
 
 ---
 
